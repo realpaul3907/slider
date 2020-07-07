@@ -1,0 +1,114 @@
+.custom_slider{
+
+	background-image: url(../images/c1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.custom_h1{
+
+	color:white;
+	padding-top: 30px;
+}
+
+
+.slider{
+
+	background-color: rgba(1,1,1,.5);
+	color: white;
+	padding: 80px;
+	margin: 40px 0;
+
+}
+
+.slider h1{
+
+	font-family: 'Poppins', sans-serif;
+	font-size: 30px;
+	margin-bottom: 30px;
+
+}
+
+.slider p{
+
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+margin-bottom: 30px;
+
+}
+
+.slider button{
+
+margin-bottom: 80px;
+
+}
+
+.custom-ind {
+
+    bottom: 40px;
+
+}
+
+
+.custom-ind li {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+
+}
+
+
+/*accordion Start*/
+
+
+
+
+/*accordion end*/
+
+
+
+.accr{
+
+	padding: 30px;
+	background-color: none;
+}
+
+
+.card-custom{
+
+	background-color: transparent;
+	color: white;
+}
+
+.btn-link-custom {
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    transition-delay: .3s ;
+
+}
+
+.btn-link-custom:hover{
+
+	color:white;
+}
+
+
+.text-muted {
+    color: #cfd5db !important;
+}
+
+
+.modal-custom{
+
+	color: black;
+}
+
+.toast-custom{
+
+	color:black;
+}
