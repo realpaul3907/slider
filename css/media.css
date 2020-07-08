@@ -30,7 +30,7 @@
 
 .btn-custom  {
     
-   margin-left: 40px;
+   margin-left: 62px;
 }
 
 .custom-ind li {
@@ -46,7 +46,12 @@ margin-bottom: 20px;
 }
 
 
-  }
+.logo {
+    width: 38%;
+    margin: 0 auto;
+    margin-left: 123px;
+}
+
 
 .btn-link-custom {
 
@@ -62,6 +67,37 @@ margin-bottom: 20px;
 
 	font-size: 14px;
 }
+
+.btn-custom {
+    margin-left: 60px;
+}
+
+.display-4-custom {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.display-6-custom{
+
+font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 20px;
+
+}
+
+.btn-custom3 {
+    margin-left: 130px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+  }
+
+
+
+
 
 
  /*Small devices (landscape phones, 576px and up)*/
@@ -111,6 +147,9 @@ margin-bottom: 30px;
 
 }
 
+.btn-custom {
+    margin-left: 118px;
+}
 
   }
 
@@ -132,10 +171,6 @@ margin-bottom: 30px;
     text-align: center;
 }
 
-.btn:not(:disabled):not(.disabled) {
-    cursor: pointer;
-    margin-left: 210px;
-}
 
 .slider button{
 
@@ -149,15 +184,21 @@ margin-bottom: 50px;
     border-radius: 50%;
 }
 
-  }
+  
+.logo {
+   width: 33%;
+   margin-left: 248px;
 
-  .btn-link-custom {
+}
+
+.btn-link-custom {
 
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 18px;
     color: #fff;
     text-decoration: none;
+    margin-left: 210px;
 
 }
 
@@ -166,6 +207,38 @@ margin-bottom: 50px;
 	font-size: 14px;
 }
 
+.btn-custom {
+    cursor: pointer;
+    margin-left: 217px;
+}
+
+.btn-custom2 {
+    cursor: pointer;
+    margin-left: 217px;
+}
+
+.display-4-custom {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.display-6-custom{
+
+font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 20px;
+
+}
+
+.btn-custom3 {
+    margin-left: 270px;
+    margin-top: 15px;
+}
+  }
+
+  
 
 /*/Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) 
