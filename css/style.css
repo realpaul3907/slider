@@ -112,3 +112,41 @@ margin-bottom: 80px;
 
 	color:black;
 }
+
+.logo{
+
+	width: 10%;
+}
+
+
+.logo img{
+
+	width: 100%;
+}
+
+
+.second{
+
+	margin:50px 0;
+}
+
+
+.display-4-custom {
+   font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+}
+
+.display-6-custom{
+
+font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    margin-bottom: 10px;
+
+}
+
+.progress-custom{
+
+	margin:10px 0;
+}
